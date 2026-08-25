@@ -1,0 +1,6 @@
+Entrar en la carpeta: cd C:\TFG\kinetrack-ai
+
+Activar el entorno virtual: .\venv\Scripts\Activate.ps1
+
+Puedes habilitar la ejecución para tu usuario ejecutando esto una sola vez:  
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
